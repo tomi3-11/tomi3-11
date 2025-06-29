@@ -58,7 +58,7 @@
 - Email: thomaswotoro@gmail.com
 - Portfolio website [Coming Soon!!]() 
 - LinkedIn: [ Thomas Wotoro ](https://www.linkedin.com/in/thomas-wotoro-a8504233a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- YouTube: [ Wotoro Tech ](www.youtube.com/@WotoroTech)
+- YouTube: [ Wotoro Tech ](https://www.youtube.com/channel/UCrFJthZZZvZ6_2gKPbY9fVw)
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
