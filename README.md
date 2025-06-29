@@ -30,9 +30,22 @@
 - **other:** REST APIs, Automation, Web Scraping
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark)
 ![Top Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi3-11&layout=compact)
-![Streaks](https://streak-stats.demolab.com/?user=tomi3-11&theme=dark)
+![Streaks](https://streak-stats.demolab.com/?user=tomi3-11&theme=dark) -->
+
+<!-- GitHub Stats -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+<!-- Top Languages -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi3-11&layout=compact" alt="Top Languages">
+</p>
+<!-- Streak -->
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=tomi3-11&theme=dark" alt="Github Streak">
+</p>
 
  
 ## 🌱 Current Learning
