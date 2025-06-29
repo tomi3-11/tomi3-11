@@ -17,10 +17,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Task Management System (Django + PostgreSQL)]() | A focus Timer task management web app that has integrated celendar and focus Timer | `Django`, `PostgreSQL` |
+| [Todo-Space](https://github.com/tomi3-11/Todo-Space) | A focus Timer task management web app that has integrated celendar and focus Timer | `Django`, `PostgreSQL` |
 | [Flask Weather App with OpenWeather API]() | A web app that shows weather information | `Flask`, `HTML`, `CSS` |
-| [Collaborative Platform (Django)]() | Full featured collaborative platform and learning environment | `Django`, `PostgreSQL` |
-| [File converter with opencv]() | A mini web app that converts PDF to DOCX and vice versa | `Flask`, `HTML`, `CSS` |
+| [Collaborative Platform ](https://github.com/tomi3-11/CollaborateNow) | Full featured collaborative platform and learning environment | `Django`, `PostgreSQL` |
+| [File converter ](https://github.com/tomi3-11/Flask-Mini_Projects/tree/main/file_converter) | A mini web app that converts PDF to DOCX and vice versa | `Flask`, `HTML`, `CSS` |
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, C, HTML, CSS, JavaScript, Bash
