@@ -17,15 +17,15 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Todo-Space](https://github.com/tomi3-11/Todo-Space) | A focus Timer task management web app that has integrated celendar and focus Timer | `Django`, `PostgreSQL` |
-| [Flask Weather App with OpenWeather API]() | A web app that shows weather information | `Flask`, `HTML`, `CSS` |
+| [Todo-Space](https://github.com/tomi3-11/Todo-Space) | A focus Timer task management web app that has integrated calendar and focus Timer | `Django`, `PostgreSQL` |
+| [Weather App](https://github.com/tomi3-11/Weather-App) | A Flask web based application that shows weather information from OpenWeather API | `Flask`, `HTML`, `CSS` |
 | [Collaborative Platform ](https://github.com/tomi3-11/CollaborateNow) | Full featured collaborative platform and learning environment | `Django`, `PostgreSQL` |
 | [File converter ](https://github.com/tomi3-11/Flask-Mini_Projects/tree/main/file_converter) | A mini web app that converts PDF to DOCX and vice versa | `Flask`, `HTML`, `CSS` |
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, C, HTML, CSS, JavaScript, Bash
 - **Frameworks:** Flask, Django, Tkinter, PyQt5, React(Learning)
-- **Databases:** PostgrSQL, SQLite
+- **Databases:** PostgreSQL, SQLite
 - **Tools:** Git, GitHub, Linux, VS Code, Vim
 - **other:** REST APIs, Automation, Web Scraping
 
@@ -44,7 +44,7 @@
 </p>
 <!-- Streak -->
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=tomi3-11&theme=dark" alt="Github Streak">
+    <img src="https://streak-stats.demolab.com/?user=tomi3-11&theme=dark" alt="GitHub Streak">
 </p>
 
  
