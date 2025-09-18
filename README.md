@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Thomas Wotoro </h1>
 
 <p align="center">
-  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomi3-11) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tomi3-11" alt="Profile views">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=tomi3-11&color=blue)
+
 </p>
 
 <p align="center">
