@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hi, I'm Thomas Wotoro </h1>
 
 <p align="center">
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomi3-11) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tomi3-11" alt="Profile views">
+</p>
+
+<p align="center">
   A passionate Software Developer focused on <strong>Python Backend Development</strong>, <strong>Automation</strong>, and <strong>Desktop Applications</strong>.
 </p>
 
@@ -50,7 +55,7 @@
  
 ## 🌱 Current Learning
 - System Programming (C, OS, Shell)
-- Frontend (React, JavaScript, Tailwind)
+<!-- - Frontend (React, JavaScript, Tailwind) -->
 - Mastering Flask & Django
 
 
