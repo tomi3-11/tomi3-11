@@ -10,7 +10,7 @@
   A passionate Software Developer focused on <strong>Python Backend Development</strong>, <strong>Automation</strong>, and <strong>Desktop Applications</strong>.
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🎓 Aspiring Software Engineer | Backend Developer | Automation Enthusiast  
 - 🐍 Currently mastering **Python**, **Flask**, **Django**, and **CustomTkinter**
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -28,21 +28,22 @@
 | [Collaborative Platform ](https://github.com/tomi3-11/CollaborateNow) | Full featured collaborative platform and learning environment | `Django`, `PostgreSQL` |
 | [File converter ](https://github.com/tomi3-11/Flask-Mini_Projects/tree/main/file_converter) | A mini web app that converts PDF to DOCX and vice versa | `Flask`, `HTML`, `CSS` |
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 - **Languages:** Python, C, HTML, CSS, JavaScript, Bash
 - **Frameworks:** Flask, Django, Tkinter, PyQt5, React(Learning)
 - **Databases:** PostgreSQL, SQLite
 - **Tools:** Git, GitHub, Linux, VS Code, Vim
 - **other:** REST APIs, Automation, Web Scraping
 
-## 📈 GitHub Stats
+## GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark)
 ![Top Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi3-11&layout=compact)
 ![Streaks](https://streak-stats.demolab.com/?user=tomi3-11&theme=dark) -->
 
 <!-- GitHub Stats -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark" alt="GitHub Stats">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark" alt="GitHub Stats"> -->
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tomi3-11?cardType=level&theme=dark&preferLogin=false" alt="Github stats">
 </p>
 <!-- Top Languages -->
 <p align="center">
@@ -54,17 +55,17 @@
 </p>
 
  
-## 🌱 Current Learning
+## Current Learning
 - System Programming (C, OS, Shell)
 <!-- - Frontend (React, JavaScript, Tailwind) -->
-- Mastering Flask & Django
+- Mastering Flask & FastApi - Django
 
 
 ## Let's Connect
 - Email: thomaswotoro@gmail.com
 - Portfolio website [Coming Soon!!]() 
 - LinkedIn: [ Thomas Wotoro ](https://www.linkedin.com/in/thomas-wotoro-a8504233a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- YouTube: [ Wotoro Tech ](https://www.youtube.com/channel/UCrFJthZZZvZ6_2gKPbY9fVw)
+<!-- YouTube: [ Wotoro Tech ](https://www.youtube.com/channel/UCrFJthZZZvZ6_2gKPbY9fVw) -->
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
