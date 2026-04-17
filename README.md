@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Thomas Wotoro </h1>
+<h1 align="center">Hi, I'm Thomas Wotoro </h1>
 
 <p align="center">
 
@@ -12,9 +12,9 @@
 
 ## About Me
 
-- 🎓 Aspiring Software Engineer | Backend Developer | Automation Enthusiast  
-- 🐍 Currently mastering **Python**, **Flask**, **Django**, and **CustomTkinter**
-- 🔄 Exploring **System Programming**, **C**, and **Linux**
+- Aspiring Software Engineer | Backend Developer | Automation Enthusiast  
+- Currently mastering **Python**, **Flask**, **Django**, and **CustomTkinter**
+- Exploring **System Programming**, **C**, and **Linux**
 
 
 ---
@@ -46,13 +46,17 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tomi3-11?cardType=level&theme=dark&preferLogin=false" alt="Github stats">
 </p>
 <!-- Top Languages -->
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi3-11&layout=compact" alt="Top Languages">
 </p>
+
 <!-- Streak -->
+<!--
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=tomi3-11&theme=dark" alt="GitHub Streak">
 </p>
+-->
 
  
 ## Current Learning
