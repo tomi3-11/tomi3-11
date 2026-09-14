@@ -13,7 +13,7 @@
 ## About Me
 
 - Aspiring Software Engineer | Backend Developer | Automation Enthusiast  
-- Currently mastering **Python**, **Flask**, **Django**, and **CustomTkinter**
+- Currently mastering **Python**, **Flask**, **Django**
 - Exploring **System Programming**, **C**, and **Linux**
 
 
@@ -25,15 +25,14 @@
 |---------|-------------|------------|
 | [Todo-Space](https://github.com/tomi3-11/Todo-Space) | A focus Timer task management web app that has integrated calendar and focus Timer | `Django`, `PostgreSQL` |
 | [Weather App](https://github.com/tomi3-11/Weather-App) | A Flask web based application that shows weather information from OpenWeather API | `Flask`, `HTML`, `CSS` |
-| [Collaborative Platform ](https://github.com/tomi3-11/CollaborateNow) | Full featured collaborative platform and learning environment | `Django`, `PostgreSQL` |
 | [File converter ](https://github.com/tomi3-11/Flask-Mini_Projects/tree/main/file_converter) | A mini web app that converts PDF to DOCX and vice versa | `Flask`, `HTML`, `CSS` |
 
 ## Tech Stack & Tools
-- **Languages:** Python, C, HTML, CSS, JavaScript, Bash
-- **Frameworks:** Flask, Django, Tkinter, PyQt5, React(Learning)
+- **Languages:** Python, C, C++, Bash
+- **Frameworks:** Flask, Django, FastAPI
 - **Databases:** PostgreSQL, SQLite
-- **Tools:** Git, GitHub, Linux, VS Code, Vim
-- **other:** REST APIs, Automation, Web Scraping
+- **Tools:** Git, GitHub, Linux, VS Code, Vim, Nginx, Docker
+- **other:** REST APIs, Automation, Web Scraping, caching, Rate Limiting
 
 ## GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark)
