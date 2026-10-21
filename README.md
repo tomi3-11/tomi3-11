@@ -16,6 +16,14 @@ A command-line monitor for website uptime and TLS certificate health.
 
 **Stack:** Python, asyncio, httpx, sockets/TLS, YAML, pytest
 
+### [Task Manager API](https://github.com/tomi3-11/taskmanager-redis-rl)
+A REST API for task management, with authentication and supporting infrastructure.
+- JWT access/refresh tokens, registration, password reset, and email flows.
+- PostgreSQL persistence, Redis integration, rate limiting, and database migrations.
+- Uses an application factory, API versioning, and OpenAPI/Swagger documentation.
+
+**Stack:** Python, Flask, PostgreSQL, Redis, JWT, SQLAlchemy, Docker Compose
+
 ### [LAN Paste](https://github.com/tomi3-11/lan-paste)
 A self-hosted paste service intended for a trusted LAN or private Tailscale network.
 - Flask web interface and JSON/raw-body API backed by SQLite.
