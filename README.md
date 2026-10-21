@@ -1,75 +1,49 @@
-<h1 align="center">Hi, I'm Thomas Wotoro </h1>
+# Thomas Wotoro
 
-<p align="center">
+Computer Science student focused on **backend engineering and systems programming**. I build Python services and command-line tools, and I’m learning how software behaves closer to the operating system.
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=tomi3-11&color=blue)
+- **Backend:** Python, Flask, FastAPI, Django, REST APIs, PostgreSQL, SQLite
+- **Systems:** C, Linux, Bash, processes and command execution
+- **Engineering tools:** Git, GitHub Actions, Docker, Docker Compose
 
-</p>
+## Selected Projects
 
-<p align="center">
-  A passionate Software Developer focused on <strong>Python Backend Development</strong>, <strong>Automation</strong>, and <strong>Desktop Applications</strong>.
-</p>
+### [Sentinel Monitor](https://github.com/tomi3-11/sentinel-monitor)
+A command-line monitor for website uptime and TLS certificate health.
+- Runs concurrent HTTP checks and collects SSL certificate expiry information.
+- Uses YAML configuration and reports individual-site failures without stopping the whole run.
+- Includes pytest tests and GitHub Actions checks for linting and multiple Python versions.
 
-## About Me
+**Stack:** Python, asyncio, httpx, sockets/TLS, YAML, pytest
 
-- Aspiring Software Engineer | Backend Developer | Automation Enthusiast  
-- Currently mastering **Python**, **Flask**, **Django**
-- Exploring **System Programming**, **C**, and **Linux**
+### [LAN Paste](https://github.com/tomi3-11/lan-paste)
+A self-hosted paste service intended for a trusted LAN or private Tailscale network.
+- Flask web interface and JSON/raw-body API backed by SQLite.
+- Supports expiring pastes, a 1 MiB content limit, and token-protected deletion.
+- Packaged with Docker Compose; CI runs tests, Python syntax checks, and a Docker image build.
 
+**Stack:** Python, Flask, SQLite, Docker, pytest, GitHub Actions
 
----
+### [ClubIQ](https://github.com/tomi3-11/ClubIQ)
+A club-management platform for members, events, attendance, and related workflows.
+- Flask REST API with a Next.js frontend and PostgreSQL.
+- Uses Clerk for authentication and Docker Compose to run the application services.
+- Includes backend linting and tests in GitHub Actions.
 
-## Featured Projects
+**Stack:** Python, Flask, Next.js, PostgreSQL, Clerk, Docker Compose
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Todo-Space](https://github.com/tomi3-11/Todo-Space) | A focus Timer task management web app that has integrated calendar and focus Timer | `Django`, `PostgreSQL` |
-| [Weather App](https://github.com/tomi3-11/Weather-App) | A Flask web based application that shows weather information from OpenWeather API | `Flask`, `HTML`, `CSS` |
-| [File converter ](https://github.com/tomi3-11/Flask-Mini_Projects/tree/main/file_converter) | A mini web app that converts PDF to DOCX and vice versa | `Flask`, `HTML`, `CSS` |
+## Systems Programming
 
-## Tech Stack & Tools
-- **Languages:** Python, C, C++, Bash
-- **Frameworks:** Flask, Django, FastAPI
-- **Databases:** PostgreSQL, SQLite
-- **Tools:** Git, GitHub, Linux, VS Code, Vim, Nginx, Docker
-- **other:** REST APIs, Automation, Web Scraping, caching, Rate Limiting
+### [AC3 Shell](https://github.com/tomi3-11/ac3-SH3LL)
+An early-stage C shell experiment. The current prototype reads a command, tokenizes arguments, launches a process with `fork` and `execvp`, and waits with `waitpid`. It is a learning project, not a full POSIX-compatible shell.
 
-## GitHub Stats
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark)
-![Top Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi3-11&layout=compact)
-![Streaks](https://streak-stats.demolab.com/?user=tomi3-11&theme=dark) -->
+## Current Focus
 
-<!-- GitHub Stats -->
-<p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=tomi3-11&show_icons=true&theme=dark" alt="GitHub Stats"> -->
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tomi3-11?cardType=level&theme=dark&preferLogin=false" alt="Github stats">
-</p>
-<!-- Top Languages -->
+- Designing and testing maintainable backend APIs
+- Understanding Linux processes, system calls, and C
+- Improving deployment workflows with containers and CI
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi3-11&layout=compact" alt="Top Languages">
-</p>
+## Contact
 
-<!-- Streak -->
-<!--
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=tomi3-11&theme=dark" alt="GitHub Streak">
-</p>
--->
-
- 
-## Current Learning
-- System Programming (C, OS, Shell)
-<!-- - Frontend (React, JavaScript, Tailwind) -->
-- Mastering Flask & FastApi - Django
-
-
-## Let's Connect
-- Email: thomaswotoro@gmail.com
-- Portfolio website [Coming Soon!!]() 
-- LinkedIn: [ Thomas Wotoro ](https://www.linkedin.com/in/thomas-wotoro-a8504233a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<!-- YouTube: [ Wotoro Tech ](https://www.youtube.com/channel/UCrFJthZZZvZ6_2gKPbY9fVw) -->
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/thomas-wotoro-a8504233a/)
+- [Email](mailto:thomaswotoro@gmail.com)
